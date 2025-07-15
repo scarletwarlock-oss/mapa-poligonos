@@ -1,0 +1,2470 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder>
+	<name>Mis lugares</name>
+	<open>1</open>
+	<Style>
+		<ListStyle>
+			<listItemType>check</listItemType>
+			<ItemIcon>
+				<state>open</state>
+				<href>:/mysavedplaces_open.png</href>
+			</ItemIcon>
+			<ItemIcon>
+				<state>closed</state>
+				<href>:/mysavedplaces_closed.png</href>
+			</ItemIcon>
+			<bgColor>00ffffff</bgColor>
+			<maxSnippetLines>2</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Document id="Areas_Verdes.kmz" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+		<name>Areas Verdes.kmz</name>
+		<Snippet maxLines="0"></Snippet>
+		<Style id="PolyStyle00">
+			<LabelStyle>
+				<color>00000000</color>
+				<scale>0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>00f0f0f0</color>
+				<width>0.4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>ff00ff55</color>
+			</PolyStyle>
+		</Style>
+		<Style id="PolyStyle000">
+			<LabelStyle>
+				<color>00000000</color>
+				<scale>0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>00f0f0f0</color>
+				<width>0.4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>ff00ff55</color>
+			</PolyStyle>
+		</Style>
+		<Style id="PolyStyle001">
+			<LabelStyle>
+				<color>00000000</color>
+				<scale>0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>00f0f0f0</color>
+				<width>0.4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>ff00ff55</color>
+			</PolyStyle>
+		</Style>
+		<StyleMap id="PolyStyle002">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#PolyStyle000</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#PolyStyle001</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Folder id="FeatureLayer0">
+			<name>Areas Verdes</name>
+			<open>1</open>
+			<Snippet maxLines="0"></Snippet>
+			<Placemark id="ID_00000">
+				<name>LA COLMENA</name>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>LA COLMENA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>OID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>LA COLMENA</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>Areas Verdes.kmz/Areas Verdes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Clave</td>
+
+<td>PZ-002</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#PolyStyle00</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-98.88720664799996,20.01615736000002,0 -98.88660017599994,20.01561017300003,0 -98.88586592199994,20.01541969900006,0 -98.88603001599995,20.01721406200005,0 -98.88667234899998,20.01937136400005,0 -98.88654110399995,20.01993906000007,0 -98.88652794899998,20.01997213500005,0 -98.88645078799999,20.02086641400007,0 -98.88644969599994,20.02087904500007,0 -98.88660450199995,20.02231256800007,0 -98.88679060099997,20.02469419600004,0 -98.88632388199994,20.02571327400005,0 -98.88628146599994,20.02575477900007,0 -98.88624019099996,20.02577911900005,0 -98.88546161599997,20.02614355800006,0 -98.88472815199998,20.02827464800004,0 -98.88472391399995,20.02831315600002,0 -98.88526623899998,20.02885053700004,0 -98.88591575499998,20.02840088400006,0 -98.88759924399994,20.02619920000006,0 -98.88823124999999,20.02458701500007,0 -98.88756517999997,20.02391099900007,0 -98.88778536700001,20.02150777600008,0 -98.88742713299996,20.02109005500006,0 -98.88741365899995,20.01918393500006,0 -98.88720664799996,20.01615736000002,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_00001">
+				<name>SANTA ANA-HUITEPEC</name>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>SANTA ANA-HUITEPEC</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>OID</td>
+
+<td>2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>SANTA ANA-HUITEPEC</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>Areas Verdes.kmz/Areas Verdes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Clave</td>
+
+<td>PZ-003</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#PolyStyle002</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-98.91501074399999,20.04696338400004,0 -98.91267875699998,20.04411874300007,0 -98.91281372799995,20.04248605400005,0 -98.91463000399995,20.04161994500004,0 -98.91443699899997,20.04045655000004,0 -98.91297188199997,20.04056877400006,0 -98.91338362299996,20.03948009600003,0 -98.91232393499996,20.03856112500006,0 -98.91121886599994,20.03738273600004,0 -98.91100308599994,20.03697031800004,0 -98.90982460599997,20.03662279200006,0 -98.90975584299999,20.03594984500006,0 -98.90949791199994,20.03505208400003,0 -98.90909797199998,20.03504221700007,0 -98.90943143199996,20.03375590300004,0 -98.90848699099998,20.03273159300005,0 -98.90857697599995,20.03196144300006,0 -98.90852700299996,20.03149339500004,0 -98.90835727699994,20.02978089100003,0 -98.90531078799997,20.03015660600005,0 -98.90520507799995,20.03158780000007,0 -98.90435598999994,20.03159662100006,0 -98.90386552099994,20.03193383500007,0 -98.90392857999997,20.03342188300007,0 -98.900935937,20.03334967800004,0 -98.90090663299996,20.03643689100005,0 -98.90030725799994,20.03656316300004,0 -98.89987316499997,20.03761775500004,0 -98.89970291699996,20.03850677800006,0 -98.89945963399998,20.03957395600003,0 -98.89988662399999,20.04064406500004,0 -98.89376470299999,20.04076542700005,0 -98.89233780899997,20.04612531200007,0 -98.89246509299993,20.04690530100004,0 -98.89390595099997,20.04838112400006,0 -98.89461025599996,20.04871175600005,0 -98.89495945499998,20.04935877400004,0 -98.89619715899994,20.04923621800003,0 -98.89621977699994,20.04868338700004,0 -98.89830363599998,20.04858733400005,0 -98.89910774999998,20.04866779000002,0 -98.90013362799999,20.04895507000003,0 -98.90039970899996,20.04913343500004,0 -98.90116922199996,20.04076130400006,0 -98.90092421499999,20.04358278200004,0 -98.90242289199995,20.04443347400007,0 -98.90314543499994,20.04446214300003,0 -98.90334089199996,20.04677016800002,0 -98.90863270199998,20.04624024000003,0 -98.90903159299995,20.04798297000008,0 -98.90982899799995,20.04746266800004,0 -98.91167319199997,20.04724083000008,0 -98.91318633599997,20.04716428500006,0 -98.91501074399999,20.04696338400004,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_00002">
+				<name>COLORADO - SANTA ROSA</name>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>COLORADO - SANTA ROSA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>OID</td>
+
+<td>3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>COLORADO - SANTA ROSA</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>Areas Verdes.kmz/Areas Verdes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Clave</td>
+
+<td>PZ-001</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#PolyStyle00</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-98.87954254199997,19.96010771300007,0 -98.87888766599997,19.96231497300005,0 -98.87908685499997,19.96362040200006,0 -98.87972452299994,19.96574375800003,0 -98.88044858099995,19.96706687300008,0 -98.88090835499997,19.96718853300007,0 -98.88157794799997,19.96765243400006,0 -98.88230208899995,19.96856211000005,0 -98.87980418899997,19.96974252000007,0 -98.88060424899997,19.97098490800005,0 -98.88122929299999,19.97160304100004,0 -98.88219367499993,19.97230584300007,0 -98.88287038299995,19.97240210900003,0 -98.88334952899999,19.97220130600004,0 -98.88414240299994,19.97251556500004,0 -98.88417907199994,19.97251403900003,0 -98.88467934599998,19.97275214100006,0 -98.88467947399994,19.97301608500004,0 -98.88547615199997,19.97352364400007,0 -98.88584187899994,19.97390819800006,0 -98.88627275399995,19.97425680200007,0 -98.88724197499994,19.97455582000003,0 -98.88791960599998,19.97484834700003,0 -98.88862687599999,19.97491195400005,0 -98.88943574599995,19.97520830600007,0 -98.89025239299997,19.97545646700007,0 -98.89064980699999,19.97554359300005,0 -98.89097639899995,19.97570735600004,0 -98.89135397099994,19.97588544700005,0 -98.89157931399997,19.97589431900008,0 -98.89165405399996,19.97584661400003,0 -98.88706865399995,19.96407099300006,0 -98.87954254199997,19.96010771300007,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_00003">
+				<name>CERRO COLORADO</name>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>CERRO COLORADO</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>OID</td>
+
+<td>4</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>CERRO COLORADO</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>Areas Verdes.kmz/Areas Verdes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Clave</td>
+
+<td>PZ-001</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#PolyStyle00</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-98.88819028299997,20.00559521700006,0 -98.88865918999994,20.00550782600004,0 -98.88944525299998,20.00467300900004,0 -98.89132224299999,20.00429048400002,0 -98.89253208999997,20.00221941100006,0 -98.89286366099998,20.00128595000007,0 -98.89265616099999,20.00096726200007,0 -98.89291678699999,19.99909653600002,0 -98.89260347099997,19.99841371700006,0 -98.89307998799995,19.99752669100008,0 -98.89107022599995,19.99457873200004,0 -98.89129554199997,19.99412144400003,0 -98.89215779199999,19.99339028900005,0 -98.89416458099998,19.99008170100007,0 -98.89527367499994,19.98996653400008,0 -98.89576774499993,19.98978859600004,0 -98.89606164699995,19.98739359700005,0 -98.89388452199995,19.98175543000008,0 -98.89387816799996,19.98146852100007,0 -98.89343412799998,19.98159312900003,0 -98.89301339999997,19.98166848200003,0 -98.89212632299996,19.98201259500007,0 -98.89150671399996,19.98216152800006,0 -98.89001655299995,19.98253513100008,0 -98.88934210999997,19.98185528400006,0 -98.88914010999996,19.98185658200003,0 -98.88511991299998,19.98449090200006,0 -98.88622097899997,19.98681070800006,0 -98.88643932899998,19.98814373300007,0 -98.88589898099997,19.98871830800005,0 -98.88522462699996,19.98908579500005,0 -98.88476873699994,19.98923779500007,0 -98.88408393599995,19.98951352200004,0 -98.88384038999999,19.99018004700002,0 -98.88375852699993,19.99131621900005,0 -98.88359320899997,19.99217339800003,0 -98.88253831599997,19.99468236600006,0 -98.88407215899996,19.99644475800005,0 -98.88473100699998,19.99838136100004,0 -98.88977193299996,20.00150226100004,0 -98.88906719699996,20.00277960200003,0 -98.88823570299998,20.00399093300007,0 -98.88801685599996,20.00447428300004,0 -98.88772367499995,20.00517865800003,0 -98.88819028299997,20.00559521700006,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_00004">
+				<name>HUAQUICHULA</name>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>HUAQUICHULA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>OID</td>
+
+<td>7</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>HUAQUICHULA</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>Areas Verdes.kmz/Areas Verdes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>5</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Clave</td>
+
+<td>PZ-001</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#PolyStyle00</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-98.88315468599995,19.97680013800004,0 -98.88139931499995,19.97539587300002,0 -98.88083464999994,19.97502717300006,0 -98.87957503499995,19.97435252600008,0 -98.87904416099997,19.97410315800005,0 -98.87816905199996,19.97405859100007,0 -98.87578967199994,19.97542315000004,0 -98.87525849599996,19.97625811700004,0 -98.87490077599995,19.97685668800005,0 -98.87460321199995,19.97803902500004,0 -98.87441523299998,19.97888930100004,0 -98.87440929199994,19.98035125900003,0 -98.87466609999996,19.98207843300003,0 -98.87603261499997,19.98381228200003,0 -98.87719948999997,19.98403978700003,0 -98.88041828399997,19.98462103500003,0 -98.88180665399994,19.98486745200006,0 -98.88245111799995,19.98440001200004,0 -98.88329278599997,19.98353652300005,0 -98.88361313399997,19.98146249500007,0 -98.88364648199996,19.97957459500003,0 -98.88322880599996,19.97768886900008,0 -98.88315468599995,19.97680013800004,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+		</Folder>
+	</Document>
+	<Document id="CORREDOR_MEXICO_-_PACHUCA" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+		<name>CORREDOR MEXICO - PACHUCA</name>
+		<Snippet maxLines="0"></Snippet>
+		<Style id="PolyStyle003">
+			<LabelStyle>
+				<color>00000000</color>
+				<scale>0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>00f0f0f0</color>
+				<width>0.4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>ff0000ff</color>
+			</PolyStyle>
+		</Style>
+		<Folder id="FeatureLayer0">
+			<name>_Polygons_</name>
+			<Snippet maxLines="0"></Snippet>
+			<Placemark id="ID_00000">
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td> </td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FID_Export</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FolderPath</td>
+
+<td>CORREDOR ACCESO ACAYUCA</td>
+
+</tr>
+
+<tr>
+
+<td>SymbolID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Clamped</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Clave</td>
+
+<td>CZ-004</td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FID_Expo_1</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>OID_</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name_1</td>
+
+<td>CORREDOR ACCESO ACAYUCA</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPa_1</td>
+
+<td>ENTRADA ACAYUCA.kmz</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID_1</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode_1</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base_1</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped_1</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded_1</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet_1</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInf_1</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Le_1</td>
+
+<td>0.070581</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Ar_1</td>
+
+<td>0.000021</td>
+
+</tr>
+
+<tr>
+
+<td>Clave_1</td>
+
+<td>CZ-004</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#PolyStyle003</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-98.8239296704371,20.0076802417628,0 -98.82636325199992,20.01002064700005,0 -98.83171244599995,20.01160429800008,0 -98.84113283799995,20.017738117,0 -98.84200874099993,20.01896674400005,0 -98.845458439,20.02040283600003,0 -98.84272551399991,20.02866687500008,0 -98.84315543299995,20.02874154000004,0 -98.84632395499992,20.02016270400006,0 -98.84236810500002,20.01846624700003,0 -98.84138335199997,20.01724545900001,0 -98.832489868,20.01130577900007,0 -98.82703860899996,20.00964485000005,0 -98.82431528861777,20.00722564091472,0 -98.82428638699994,20.00724916200007,0 -98.8239296704371,20.0076802417628,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+		</Folder>
+		<Folder id="FeatureLayer1">
+			<name>_Polygons_</name>
+			<Snippet maxLines="0"></Snippet>
+			<Placemark id="ID_10000">
+				<name>Placemark</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Placemark</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FID_Export</td>
+
+<td>3</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>Placemark</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FolderPath</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>SymbolID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr>
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Clave</td>
+
+<td>CZ-003</td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0.013967</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FID_Expo_1</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr>
+
+<td>OID_</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name_1</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>FolderPa_1</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID_1</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode_1</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base_1</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped_1</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded_1</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet_1</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInf_1</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Le_1</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Ar_1</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clave_1</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#PolyStyle003</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-98.856335718,19.969811662,0 -98.85817128799989,19.97122463500002,0 -98.85878154099993,19.97133010000005,0 -98.85865901600003,19.97171113800004,0 -98.85861197599995,19.97293279600005,0 -98.85907691199998,19.97306680400003,0 -98.8591460759999,19.97178433400006,0 -98.85919524999998,19.97152082700011,0 -98.86043196099997,19.97235353200008,0 -98.86046856800002,19.97236802000004,0 -98.86063426500003,19.97225205100003,0 -98.86076263899999,19.97206010800005,0 -98.85933365899997,19.97105083200003,0 -98.85892205999995,19.97089133700007,0 -98.858431158,19.97082190400001,0 -98.85663800399996,19.96945502000007,0 -98.856335718,19.969811662,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+		</Folder>
+		<Folder id="FeatureLayer2">
+			<name>_Polygons_</name>
+			<Snippet maxLines="0"></Snippet>
+			<Placemark id="ID_20000">
+				<name>Placemark</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Placemark</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FID_Export</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>Placemark</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FolderPath</td>
+
+<td>CORREDOR ACCESO SAN PEDRO HUAQUILPAN</td>
+
+</tr>
+
+<tr>
+
+<td>SymbolID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr>
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Clave</td>
+
+<td>CZ-002</td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0.058446</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FID_Expo_1</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr>
+
+<td>OID_</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name_1</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>FolderPa_1</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID_1</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode_1</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base_1</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped_1</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded_1</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet_1</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInf_1</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Le_1</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Ar_1</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clave_1</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#PolyStyle003</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-98.84475080899998,19.98502096500005,0 -98.85353024799993,19.98724740000006,0 -98.853312933,19.98832746700007,0 -98.85333913899994,19.98869317200004,0 -98.85353264799997,19.98893001100001,0 -98.8541095839999,19.98919106000003,0 -98.85450163800003,19.98927824800005,0 -98.855029171,19.98923856400005,0 -98.85522077099994,19.98911098900006,0 -98.85562917599998,19.98857444400008,0 -98.85596840099997,19.98787723400003,0 -98.85796244899994,19.98830056800007,0 -98.85736512699998,19.989551423,0 -98.86122527299992,19.99061617000008,0 -98.86132188299999,19.99041075000005,0 -98.86098766199996,19.99015692800001,0 -98.86165381099991,19.98926415500004,0 -98.86768091799998,19.9908106550001,0 -98.86778439700002,19.99040763200006,0 -98.86183227699995,19.98884106100011,0 -98.86076798399998,19.98818504900001,0 -98.86236273099996,19.98733370700009,0 -98.86088104699992,19.98683167200003,0 -98.86037168499996,19.98809378000001,0 -98.85959313199994,19.98777122700006,0 -98.85875675600002,19.98756511600006,0 -98.85817018799999,19.98785215700009,0 -98.85610947399994,19.98733390400002,0 -98.85370619099994,19.98672004900003,0 -98.84527994399997,19.98451527600004,0 -98.84475080899998,19.98502096500005,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+		</Folder>
+		<Folder id="FeatureLayer3">
+			<name>_Polygons_</name>
+			<Snippet maxLines="0"></Snippet>
+			<Placemark id="ID_30000">
+				<name>Placemark</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Placemark</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FID_Export</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>Name</td>
+
+<td>Placemark</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FolderPath</td>
+
+<td>CORREDOR MEXICO - PACHUCA</td>
+
+</tr>
+
+<tr>
+
+<td>SymbolID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr>
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Clave</td>
+
+<td>CZ-001</td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0.240914</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>FID_Expo_1</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr>
+
+<td>OID_</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name_1</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>FolderPa_1</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID_1</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode_1</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base_1</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped_1</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded_1</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet_1</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInf_1</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Le_1</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Shape_Ar_1</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clave_1</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#PolyStyle003</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-98.85663800399996,19.96945502000007,0 -98.85737516099994,19.96880462900008,0 -98.85796920299997,19.9683884460001,0 -98.85708933899998,19.967771081,0 -98.860018662,19.96462267400009,0 -98.86216618899995,19.96223439300011,0 -98.86582522500002,19.95716182700006,0 -98.86865771199996,19.95384545200002,0 -98.86837278499993,19.9535597120001,0 -98.87063865499992,19.95090565600006,0 -98.87188784200001,19.94943608600006,0 -98.87309652699999,19.94803480100002,0 -98.8744643049999,19.94639108100009,0 -98.87537574899993,19.94538740500009,0 -98.87627135199995,19.94435394700002,0 -98.87640594499999,19.94418606199999,0 -98.87675732199993,19.94373734900007,0 -98.87708686599993,19.943389708,0 -98.87768695499993,19.94267561700007,0 -98.87857718399994,19.94163948600005,0 -98.87938987099996,19.94068396200003,0 -98.88018973999998,19.93967712600004,0 -98.88107439999999,19.93863286800006,0 -98.88187023499992,19.93774334000009,0 -98.88255295899992,19.93721675800004,0 -98.88353690499999,19.93644795700002,0 -98.88489699899999,19.93537971300001,0 -98.88621034499994,19.93435798800002,0 -98.8874153739999,19.93341948500009,0 -98.88844118999995,19.93265883500003,0 -98.88827387299997,19.932451305,0 -98.88096307599992,19.93812184400005,0 -98.87142973999993,19.94929252400008,0 -98.86788661699995,19.95344430100005,0 -98.86131992400001,19.96204080300008,0 -98.85649770799998,19.96717610200007,0 -98.85511632899991,19.96868343600008,0 -98.85393995000001,19.97014384100004,0 -98.85216393999997,19.97333614600003,0 -98.84476157999998,19.98387083800001,0 -98.84250367399994,19.98580535500002,0 -98.83088456099995,20.0005758400001,0 -98.82981373399997,20.00160343200003,0 -98.82402853799995,20.00624198800005,0 -98.82311929799995,20.00719617900004,0 -98.82022161099999,20.010334497,0 -98.81444773199992,20.01910942400004,0 -98.81128746099991,20.02211604400003,0 -98.81174130799999,20.02230533600006,0 -98.81184361199992,20.0224023390001,0 -98.81203750900001,20.02251246500006,0 -98.81514777299994,20.01955047200003,0 -98.82095536199996,20.01092126400005,0 -98.82391236399992,20.00770115600007,0 -98.8239296704371,20.0076802417628,0 -98.82376283699999,20.00751979600008,0 -98.82422716499994,20.00714735800008,0 -98.82431528861777,20.00722564091472,0 -98.83040739099999,20.0022676880001,0 -98.83149693099998,20.00127842900005,0 -98.84314083700001,19.98637752700003,0 -98.84475080899998,19.98502096500005,0 -98.84527994399997,19.98451527600004,0 -98.85072719100002,19.97695221400008,0 -98.85298965499999,19.97365977400007,0 -98.85437237100001,19.97119563400002,0 -98.85513383100002,19.97168864800005,0 -98.85616416100002,19.97001406700005,0 -98.85631145300003,19.96979298300005,0 -98.856335718,19.969811662,0 -98.85663800399996,19.96945502000007,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+		</Folder>
+	</Document>
+	<Document id="Polígonos_EquipamientoZapotlan.kmz" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+		<name>Polígonos EquipamientoZapotlan.kmz</name>
+		<Snippet maxLines="0"></Snippet>
+		<Style id="PolyStyle004">
+			<LabelStyle>
+				<color>00000000</color>
+				<scale>0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>00f0f0f0</color>
+				<width>0.4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>ffff7000</color>
+			</PolyStyle>
+		</Style>
+		<Folder id="FeatureLayer0">
+			<name>Polígonos Equipamiento</name>
+			<Snippet maxLines="0"></Snippet>
+			<Placemark id="ID_00000">
+				<name>CENTRO ACAYUCA</name>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>CENTRO ACAYUCA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>OID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>CENTRO ACAYUCA</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>Polígonos EquipamientoZapotlan.kmz/Polígonos Equipamiento</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Clave</td>
+
+<td>PZ-009</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#PolyStyle004</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-98.84430299499995,20.03471991800006,0 -98.84340525699997,20.03290701400005,0 -98.84437749199998,20.03062859000005,0 -98.84420479799996,20.03056068700005,0 -98.84626746499998,20.03139666100003,0 -98.84663437399996,20.03014762100003,0 -98.84482191399997,20.02943456400004,0 -98.84469027699998,20.02937379700006,0 -98.84426689799994,20.03049760200003,0 -98.84304917399999,20.03000004800003,0 -98.84230919499997,20.02972838300008,0 -98.84079304299996,20.02936784300005,0 -98.84061272899997,20.03008260000007,0 -98.84153902599996,20.03057520800007,0 -98.84137841799998,20.03101133400003,0 -98.84270559199996,20.03160837000007,0 -98.84301517599994,20.03253689900004,0 -98.84331486699995,20.03301573100003,0 -98.84418566199997,20.03465919500007,0 -98.84413774499995,20.03469129100006,0 -98.84417303899994,20.03477969800002,0 -98.84430299499995,20.03471991800006,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_00001">
+				<name>CENTRO SAN PEDRO HUAQUILPAN</name>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>CENTRO SAN PEDRO HUAQUILPAN</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>OID</td>
+
+<td>2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>CENTRO SAN PEDRO HUAQUILPAN</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>Polígonos EquipamientoZapotlan.kmz/Polígonos Equipamiento</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Clave</td>
+
+<td>PZ-008</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#PolyStyle004</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-98.86844030699996,19.99071684300003,0 -98.86789689599999,19.99066895900006,0 -98.86770360599996,19.99135078100005,0 -98.86741886999994,19.99124264100004,0 -98.86736174399994,19.99169317200005,0 -98.86667362499998,19.99166632200007,0 -98.86655699699998,19.99173715700005,0 -98.86596983399993,19.99213670800003,0 -98.86838284199996,19.99265714800003,0 -98.86905388599995,19.99091346400007,0 -98.86973431499996,19.99080657600007,0 -98.86950461199996,19.98975339800006,0 -98.86878597699997,19.98983064100003,0 -98.86844030699996,19.99071684300003,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_00002">
+				<name>CENTRO ZAPOTLÁN DE JUARÉZ</name>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>CENTRO ZAPOTLÁN DE JUARÉZ</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>OID</td>
+
+<td>3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>CENTRO ZAPOTLÁN DE JUARÉZ</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>Polígonos EquipamientoZapotlan.kmz/Polígonos Equipamiento</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Clave</td>
+
+<td>PZ-007</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#PolyStyle004</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-98.86419277299996,19.97564053500003,0 -98.86207738499998,19.97449133400005,0 -98.86227983999997,19.97372974200005,0 -98.86138276599998,19.97320949400006,0 -98.86132692399997,19.97273121900002,0 -98.86116549299999,19.97171882800006,0 -98.86091043,19.97183136800004,0 -98.86063602499996,19.97224959200003,0 -98.86011476399996,19.97262153700007,0 -98.85969896399996,19.97288698700004,0 -98.85952778599994,19.97287989200004,0 -98.85917387499997,19.97293688200006,0 -98.85887685599995,19.97302113700005,0 -98.85972847199997,19.97321791400003,0 -98.86003112599997,19.97334991300005,0 -98.860527844,19.97359094700005,0 -98.86207973299996,19.97447570400004,0 -98.86195001699997,19.97482712700003,0 -98.86201061699997,19.97561868600008,0 -98.86214137899997,19.97659892000007,0 -98.86404480399995,19.97800029300004,0 -98.86411504999994,19.97752627600005,0 -98.86416932699996,19.97736118600005,0 -98.86468974799999,19.97733170200007,0 -98.86489584799993,19.97711574400006,0 -98.86408602999995,19.97620011500004,0 -98.86419277299996,19.97564053500003,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_00003">
+				<name>DEPORTIVA EMILIANO ZAPATA</name>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>DEPORTIVA EMILIANO ZAPATA</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>OID</td>
+
+<td>4</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>DEPORTIVA EMILIANO ZAPATA</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>Polígonos EquipamientoZapotlan.kmz/Polígonos Equipamiento</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>2</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Clave</td>
+
+<td>PZ-006</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#PolyStyle004</styleUrl>
+				<MultiGeometry>
+					<Polygon>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-98.86167124199994,19.96880642600007,0 -98.86142653499995,19.96836931200005,0 -98.86036547199996,19.96756518700005,0 -98.85933727499997,19.96757679600006,0 -98.85923913999994,19.96768380400005,0 -98.85932694199994,19.96803711300004,0 -98.85953105500001,19.96849021200006,0 -98.86025061799994,19.96847655300007,0 -98.86167124199994,19.96880642600007,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</MultiGeometry>
+			</Placemark>
+		</Folder>
+	</Document>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+</Folder>
+</kml>
